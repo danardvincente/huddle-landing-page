@@ -1,0 +1,12 @@
+{
+  "name": "huddlelandingpage",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/css"
+  },
+  "keywords": [],
+  "author": "Vincente, Danard E.",
+  "license": "ISC"
+}
